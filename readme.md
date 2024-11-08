@@ -1,5 +1,5 @@
 UCAS大数据分析编程作业:完成一种基于深度学习的命名实体识别方法
-- 主体模型使用bert
+- base_model使用bert，数据集使用CoNLL-2003
 - results/ 下包括所有模型的收敛曲线
 - 包括bert, bert-crf, bert-cnn, bert-lstm, bert-cnn-lstm模型
 
