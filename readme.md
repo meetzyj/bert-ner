@@ -18,6 +18,7 @@ UCAS大数据分析编程作业:完成一种基于深度学习的命名实体识
 | bert+lstm                   | 0.9594   | 0.8009      |
 | bert+cnn                    | 0.9648   | 0.8128      |
 | bert+lstm+cnn               | 0.9778   | 0.8606      |
+
 ![bert_fuse](https://gitee.com/meetzyj/typora-images/raw/master/imgs/20241107203411.png)
 **声明**
 本项目基于https://github.com/xsfmGenius/Ner_Bert_CoNLL-2003进行开发
