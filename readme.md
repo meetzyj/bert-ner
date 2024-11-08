@@ -23,4 +23,4 @@ UCAS大数据分析编程作业:完成一种基于深度学习的命名实体识
 
 **声明:**
 
-本项目基于https://github.com/xsfmGenius/Ner_Bert_CoNLL-2003进行开发
+本项目基于https://github.com/xsfmGenius/Ner_Bert_CoNLL-2003 进行开发
