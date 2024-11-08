@@ -8,7 +8,7 @@ UCAS大数据分析编程作业:完成一种基于深度学习的命名实体识
 - Ubuntu 18.04.1
 - cuda 12.1.105
 - torch2.4.0+cu121
-- 4$\times$NVIDIA GeForce RTX 3090
+- NVIDIA GeForce RTX 3090
 
 **结果展示:**
 | model&trick                 | accuracy | $f_1$ score |
